@@ -2,6 +2,12 @@
 
 USB RS485 Hex Modbus 温湿度传感器 采集
 
+## 设备
+
+1. 温湿度传感器
+2. USB 转 RS-485 转接器
+3. 驱动 [CP210x USB 至 UART 桥 VCP 驱动器](https://cn.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
+
 ## Example
 
 ```bash
